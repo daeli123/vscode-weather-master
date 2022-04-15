@@ -1,0 +1,7 @@
+1. Aplikasi Native dapat dibilang sebagai asli biasanya dapat di download langsung di Play Store,
+App Store dan sejenisnya.
+Apilasi Hybrid merupakan aplikasi yang ditransformasikan menjadi kode native pada platform
+seperti iOS atau Android.
+
+2. State management adalah sebuah cara untuk mengatur data/state kita bekerja, bisa juga untuk 
+memisahkan antara logic dan view dimana logic tersebut juga bisa re-usable
